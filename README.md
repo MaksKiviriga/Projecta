@@ -6,7 +6,7 @@
         <main>
             <h1 style="text-align:center;font-size:50px;">Студія роблення ігор</h1>
             <h2 style="text-align:center;font-size:40px;">Ми допоможем з вашою грою</h2>
-            <img src="https://studfile.net/html/2706/1080/html_x61QkHIjKk.flqH/htmlconvd-AwK9ic8x1.jpg"width="700px"</img>
+            <img src="https://studfile.net/html/2706/1080/html_x61QkHIjKk.flqH/htmlconvd-AwK9ic8x1.jpg"width="700px"
             <h2 id="games">Ми робимо в різних жанрах</h2>
             <p>Ми можем зробити гру по вашому сценарію? 
                 <br>У вас вже є гра, яку треба доробитати для мобільних приладів або для продажи в іншу країну?
